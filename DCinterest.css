@@ -1,0 +1,36 @@
+.container-fluid {
+    margin-left: 100px;
+    margin-right: 50px;
+    padding-right: 100px;
+}
+
+.navbar {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.row>div {
+    margin: 0 10px;
+}
+
+.nav-item {
+    margin-right: 10px;
+}
+
+.row,
+.col {
+    padding: 10px;
+}
+
+a {
+    color: grey;
+}
+
+.navbar-brand {
+    padding-left: 10px;
+    color: grey
+}
+
+h6 {
+    color: grey;
+}
